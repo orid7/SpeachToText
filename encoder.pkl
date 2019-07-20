@@ -1,0 +1,17 @@
+ccopy_reg
+_reconstructor
+p0
+(csklearn.preprocessing.label
+LabelEncoder
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+V_sklearn_version
+p6
+V0.19.1
+p7
+sb.
